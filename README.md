@@ -47,12 +47,12 @@ Built with security, clarity, and user experience in mind.
 
 <div style="flex: 1; min-width: 140px; max-width: 180px; text-align: center;">
   <h4>🔍 Hash + QR Code</h4>
-  <img src="assets/demo_hash.png" alt="Hash + QR" style="width:100%; border-radius: 10px;" />
+  <img src="assets/demo_hash1.png" alt="Hash + QR" style="width:100%; border-radius: 10px;" />
 </div>
 
 <div style="flex: 1; min-width: 140px; max-width: 180px; text-align: center;">
   <h4>🔐 File Encryption</h4>
-  <img src="assets/demo_encrypt.png" alt="Encrypted Output" style="width:100%; border-radius: 10px;" />
+  <img src="assets/demo_encrypt1.png" alt="Encrypted Output" style="width:100%; border-radius: 10px;" />
 </div>
 
 </div>
