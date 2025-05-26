@@ -41,8 +41,6 @@ Built with security, clarity, and user experience in mind.
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 140px; max-width: 180px; text-align: center;">
@@ -60,8 +58,6 @@ Built with security, clarity, and user experience in mind.
 > *(Place your own screenshots in the `assets/` folder to match your UI)*
 
 
-> *(Place your own screenshots in the `assets/` folder to match your UI)*
-
 ---
 
 ## 🚀 Try It Live
@@ -75,7 +71,7 @@ Built with security, clarity, and user experience in mind.
 ## 🛠️ Local Installation
 
 ```bash
-git clone https://github.com/yourusername/securevault-pro.git
+git clone https://github.com/Beyonder016/securevault-pro.git
 cd securevault-pro
 pip install -r requirements.txt
 streamlit run app.py
@@ -110,5 +106,5 @@ This project is open-sourced under the **MIT License**.
 
 ## ✨ Credits
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)  
+Made with ❤️ by [Sujit Hulule](https://github.com/Beyonder016)  
 Originally built as a personal/professional project to showcase secure encryption UIs.
