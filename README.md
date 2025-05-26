@@ -41,19 +41,24 @@ Built with security, clarity, and user experience in mind.
 
 ## 📷 Screenshots
 
+## 📷 Screenshots
+
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<div style="flex: 1; min-width: 280px; max-width: 360px; text-align: center;">
+<div style="flex: 1; min-width: 140px; max-width: 180px; text-align: center;">
   <h4>🔍 Hash + QR Code</h4>
   <img src="assets/demo_hash.png" alt="Hash + QR" style="width:100%; border-radius: 10px;" />
 </div>
 
-<div style="flex: 1; min-width: 280px; max-width: 360px; text-align: center;">
+<div style="flex: 1; min-width: 140px; max-width: 180px; text-align: center;">
   <h4>🔐 File Encryption</h4>
   <img src="assets/demo_encrypt.png" alt="Encrypted Output" style="width:100%; border-radius: 10px;" />
 </div>
 
 </div>
+
+> *(Place your own screenshots in the `assets/` folder to match your UI)*
+
 
 > *(Place your own screenshots in the `assets/` folder to match your UI)*
 
